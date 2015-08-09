@@ -1,0 +1,3 @@
+third file content
+third file content (v2)
+third file content (v3)
